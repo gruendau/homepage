@@ -1,3 +1,7 @@
+<style>
+ p { background-color : red }
+</style>
+
 <!-- Navigation top -->
 [__`home`__][home] [__`seiten`__][seiten] [__`a-z`__][content] [__`swift`__][content2] [__`<--`__][left] [__`hoch`__][up] [__`-->`__][right] [__`runter`__][bottom] _`home/swift/intro`_
 
@@ -50,7 +54,7 @@
 - [`Fehler Behandlung`](#fehler-behandlung "error handling")
 
 ### Konstanten    
-[Konstanten](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/#Naming-Constants-and-Variables) <_constants_> sind Objekte zur Speicherung von Werten und/oder Funktionen, die im Programmverlauf nicht mehr geändert werden können. Für die Deklarierung wird das Schlüsselwort `let` genutzt. 
+[Konstanten](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/#Naming-Constants-and-Variables) _constants_ sind Objekte zur Speicherung von Werten und/oder Funktionen, die im Programmverlauf nicht mehr geändert werden können. Für die Deklarierung wird das Schlüsselwort _let_ genutzt. 
 
 ```swift  
 let constant = "volker"         
