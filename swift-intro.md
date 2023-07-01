@@ -54,7 +54,7 @@
 - [`Fehler Behandlung`](#fehler-behandlung "error handling")
 
 ### Konstanten    
-[Konstanten](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/#Naming-Constants-and-Variables) _constants_ sind Objekte zur Speicherung von Werten und/oder Funktionen, die im Programmverlauf nicht mehr geändert werden können. Für die Deklarierung wird das Schlüsselwort _let_ genutzt. 
+[Konstanten](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/#Naming-Constants-and-Variables) <i>constants</i> sind Objekte zur Speicherung von Werten und/oder Funktionen, die im Programmverlauf nicht mehr geändert werden können. Für die Deklarierung wird das Schlüsselwort <i>let</i> genutzt. 
 
 ```swift  
 let constant = "volker"         
