@@ -1,5 +1,5 @@
 <style>
- i { background-color : yellow }
+ body { background-color : gray }
 </style>
 
 <!-- Navigation top -->
