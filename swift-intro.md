@@ -1,5 +1,7 @@
 <style>
- body { background-color : gray }
+ body { background-color : DodgerBlue }
+ h2 { background-color : Tomato }
+ i { background-color : Orange }
 </style>
 
 <!-- Navigation top -->
